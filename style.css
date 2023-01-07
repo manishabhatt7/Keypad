@@ -1,0 +1,46 @@
+.container{
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+    height: 400px;
+    background-color: rgb(252, 197, 180);
+}
+
+.container1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px;
+    margin: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+}
+
+.container2{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+}
+
+
+button{
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    font-size: 20px;
+}
